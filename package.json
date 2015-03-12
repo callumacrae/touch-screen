@@ -1,0 +1,22 @@
+{
+  "name": "touch-screen",
+  "version": "0.1.0",
+  "description": "Detects whether the browser supports touch or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callumacrae/touch-screen"
+  },
+  "keywords": [
+    "mobile"
+  ],
+  "author": "Callum Macrae <callum@macr.ae>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callumacrae/touch-screen/issues"
+  },
+  "homepage": "https://github.com/callumacrae/touch-screen"
+}
